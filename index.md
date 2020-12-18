@@ -160,7 +160,7 @@ Information Commands [25]
 
 **corona (country)** » Shows the corona virus statistics for the specified country
 
-**discordj (query)** » Search the discord.js docs
+**discordjs (query)** » Search the discord.js docs
 
 **discrim (query)** » Search for users with a specific discriminator
 
