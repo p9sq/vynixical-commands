@@ -40,7 +40,7 @@ Fun Commands [26]
 
 **ping** » Shows the messages edit speed and the bots websocket latency
 
-**reverse <message>** » Reverses your message
+**reverse (message)** » Reverses your message
 
 **roledice** » Roles a dice
 
